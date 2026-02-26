@@ -27,24 +27,24 @@ I’m a junior full‑stack developer, currently building my projects. I’m pas
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
-## 🛠️ Projects ...
+## 🛠️ Projects:
 I’m working on my first personal projects to practise and improve my skills.
 I’ll soon be uploading repositories with:
 - Small web applications
 - Logic and algorithm exercises
 - Projects to practise both frontend and backend
 
-## 🎯 Short‑term goals
+## 🎯 Short‑term goals:
 - Publish my first complete projects on GitHub
 - Improve my JavaScript and React skills
 - Learn good development practices
 - Build a solid portfolio
 
-## 📚 Always learning
+## 📚 Always learning:
 I enjoy learning independently, experimenting, and improving every day.
 I’m open to collaborating on simple projects or taking part in programming challenges.
 
-## 😄A bit about me
+## 😄A bit about me:
 I’m curious, persistent, and I truly enjoy the learning process. Even though I’m just starting out, I’m eager to grow and contribute to the development world.
 
 <!-- *************************************************** EN ESPAÑOL *************************************************** -->
