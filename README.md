@@ -42,7 +42,6 @@ I’ll soon be uploading repositories with:
 
 ## 📚 Always learning:
 I enjoy learning independently, experimenting, and improving every day.
-I’m open to collaborating on simple projects or taking part in programming challenges.
 
 ## 😄A bit about me:
 I’m curious, persistent, and I truly enjoy the learning process. Even though I’m just starting out, I’m eager to grow and contribute to the development world.
@@ -58,7 +57,7 @@ Soy programadora full stack junior, en proceso de contrucción de mis proyectos.
 - JavaScript
 - HTML / CSS
 - Java
-- Python (nivel inicial)
+- Python 
 - PHP (nivel inicial)
 - React (aprendiendo)
 - Git & GitHub
@@ -88,7 +87,6 @@ Pronto iré subiendo repositorios con:
 
 ## 📚 En constante aprendizaje
 Me gusta aprender de forma autodidacta, experimentar y mejorar cada día.  
-Estoy abierto a colaborar en proyectos sencillos o participar en retos de programación.
 
 ---
 
