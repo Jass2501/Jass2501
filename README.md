@@ -1,4 +1,4 @@
-# 👋 Hello! My name is Jasmine
+#  Hello! My name is Jasmine
 I’m a junior full‑stack developer, currently building my projects. I’m passionate about technology, web development, software application creation, and the idea of developing solutions that genuinely work and provide real value.
 
 ## 📡 Technologies:
